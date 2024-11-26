@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\Documents\\WarehouseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\tests\\productsrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|solutionrelative:tests\\productsrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDFBA24-DE0C-48F8-9C57-93B27E19DB63}|DAL\\DAL.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDFBA24-DE0C-48F8-9C57-93B27E19DB63}|DAL\\DAL.csproj|solutionrelative:dal\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|c:\\users\\1\\documents\\warehousemanagement\\tests\\ordersrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|solutionrelative:tests\\ordersrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A4AF0-7403-4C05-8B0C-AC32A9E5B684}|ConsoleApp\\ConsoleApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A4AF0-7403-4C05-8B0C-AC32A9E5B684}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140A4AF0-7403-4C05-8B0C-AC32A9E5B684}|ConsoleApp\\ConsoleApp.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\consoleapp\\menu.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140A4AF0-7403-4C05-8B0C-AC32A9E5B684}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\menu.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDFBA24-DE0C-48F8-9C57-93B27E19DB63}|DAL\\DAL.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\dal\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDFBA24-DE0C-48F8-9C57-93B27E19DB63}|DAL\\DAL.csproj|solutionrelative:dal\\suppliersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDFBA24-DE0C-48F8-9C57-93B27E19DB63}|DAL\\DAL.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\dal\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDFBA24-DE0C-48F8-9C57-93B27E19DB63}|DAL\\DAL.csproj|solutionrelative:dal\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\tests\\suppliersrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|solutionrelative:tests\\suppliersrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|C:\\Users\\1\\Documents\\WarehouseManagement\\tests\\daltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD8B9A6E-8B87-4F21-BEDE-A1E708F3141F}|Tests\\Tests.csproj|solutionrelative:tests\\daltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuppliersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\DAL\\SuppliersRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\SuppliersRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\DAL\\SuppliersRepository.cs",
+              "RelativeToolTip": "DAL\\SuppliersRepository.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:22:35.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Menu.cs.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\ConsoleApp\\Menu.cs.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Menu.cs.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\ConsoleApp\\Menu.cs.cs",
+              "RelativeToolTip": "ConsoleApp\\Menu.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:22:17.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrdersRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\OrdersRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\OrdersRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\OrdersRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\OrdersRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:02:04.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\DAL\\OrdersRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\OrdersRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\DAL\\OrdersRepository.cs",
+              "RelativeToolTip": "DAL\\OrdersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T22:41:16.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DALTests.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\DALTests.cs",
+              "RelativeDocumentMoniker": "Tests\\DALTests.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\DALTests.cs",
+              "RelativeToolTip": "Tests\\DALTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:29:01.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\ProductsRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\ProductsRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\ProductsRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\ProductsRepositoryTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:56:42.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:22:53.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuppliersRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\SuppliersRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Tests\\SuppliersRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\Tests\\SuppliersRepositoryTests.cs",
+              "RelativeToolTip": "Tests\\SuppliersRepositoryTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:11:08.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\1\\Documents\\WarehouseManagement\\DAL\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\1\\Documents\\WarehouseManagement\\DAL\\ProductsRepository.cs",
+              "RelativeToolTip": "DAL\\ProductsRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwBcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:39:55.392Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
